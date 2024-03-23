@@ -1,6 +1,7 @@
 class Void{
     public static void main(String[] agrs){
         System.out.println("Hello World");
+        System.out.println("さようなら、この世界");
 
         // git init   初始化
         // git status 查看分支目前状态
