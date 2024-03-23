@@ -1,7 +1,11 @@
 class Void{
     public static void main(String[] agrs){
         System.out.println("Hello World");
+
         System.out.println("Good Bye World");
+
+        System.out.println("さようなら、この世界");
+
 
         // git branch 查看所有分支
         // git checkout -b 切换并创建分支
