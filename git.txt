@@ -1,0 +1,9 @@
+git clone {url} // 从远程仓库克隆到本地 + -b分支名
+git branch      // 查看所有分支
+git checkout -b {分支名}/git branch {分支名} + git checkout {分支名}  // 创建和切换至新分支
+变更 // 需要新增功能
+git add {. | 文件路径} + git commit [-m {非空注释}] // commit与add的功能唯一对应
+git push // 提交至远程仓库
+远端提交合并请求
+合并分支  
+git pull origin main // 把合并后的main分支拉取到本地 回到第四步
